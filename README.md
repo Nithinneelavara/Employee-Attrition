@@ -129,15 +129,15 @@ pip install -r requirements.txt
 
 Sample CSV Generator (apps.py):
 
-sample_csv.png
+screenshots/sample_csv.png
 
 Batch Prediction (app.py):
 
-batch_predictions.png
+screenshots/batch_predictions.png
 
 Single Employee Prediction (app.py):
 
-single_prediction.png
+screenshots/single_prediction.png
 
 📜 License
 
