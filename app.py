@@ -159,4 +159,3 @@ elif 'loaded_model' in locals() and 'loaded_scaler' in locals():
         )])
         fig.update_layout(title_text='Attrition Probability', yaxis=dict(range=[0,1]))
         st.plotly_chart(fig, use_container_width=True, key="single_employee_chart")
-i 
